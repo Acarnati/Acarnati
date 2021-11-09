@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Java developer, Middle
+____
+#### Это базовый профиль разработчика, проекты представлены в demo-формате.
+____
+#### Навыки:
+:white_check_mark: Spring Framework    
+:white_check_mark: Hibernate    
+:white_check_mark: RESTful    
+:white_check_mark: JUnit    
+:white_check_mark: Maven    
+:white_check_mark: Gradle    
+:white_check_mark: Docker    
+:white_check_mark: HTML    
+:white_check_mark: CSS    
+:white_check_mark: Bootstrap    
+:white_check_mark: JavaScript    
+:white_check_mark: jQuery    
+:white_check_mark: React    
+:white_check_mark: Linux  
