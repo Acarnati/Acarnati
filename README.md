@@ -27,10 +27,5 @@ ____
 :white_check_mark: Maven    
 :white_check_mark: Gradle    
 :white_check_mark: Docker    
-:white_check_mark: HTML    
-:white_check_mark: CSS    
-:white_check_mark: Bootstrap    
-:white_check_mark: JavaScript    
-:white_check_mark: jQuery    
-:white_check_mark: React    
-:white_check_mark: Linux  
+:white_check_mark: Quarkus    
+:white_check_mark: Mutiny 
