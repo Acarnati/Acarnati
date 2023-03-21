@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Java developer, Middle
 ____
-#### Это базовый профиль разработчика, проекты представлены в demo-формате.
+#### Базовый профиль разработчика.
 ____
 #### Навыки:
 :white_check_mark: Spring Framework    
